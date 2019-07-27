@@ -4,7 +4,7 @@
 
 This app scrapes articles from The Seattle Times website and lets users save articles and leave comments.
 
-[Heroku deploiment]()
+<https://code-sy-mongoscraper.herokuapp.com/>
 
 ## How It Works
 
@@ -22,7 +22,7 @@ This app scrapes articles from The Seattle Times website and lets users save art
 - Handlebars.js
 - MongoDB
 - Mongoose
-- npm packages
+- npm packages:
     - body-parser
     - express
     - express-handlebars
